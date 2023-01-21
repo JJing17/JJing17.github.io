@@ -106,9 +106,9 @@ analytics:
 author:
   name             : "Jongpil Jeong"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
+  bio              : "코린이 공부중"
   location         : "Somewhere"
-  email            :
+  email            : "jongpil0911@gmall.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -127,7 +127,7 @@ author:
       # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      url: "https://instagram.com/jjing_e.0220?igshid=YWJhMjlhZTc="
 
 # Site Footer
 footer:
