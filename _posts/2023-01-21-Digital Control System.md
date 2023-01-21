@@ -4,9 +4,7 @@
 1.아래의 sampled-data closed-loop system에서 입력신호가 unit step function이고 sample time이 0.1sec일때 k번째 샘플타임의 y(k)식을 유도하시오.  
 2.그리고 p,i,d 제어기를 추가하여 delay time이 감소하도록 설게해보시오. 
 ![KakaoTalk_20230121_133320988](https://user-images.githubusercontent.com/98220775/213848288-57d5bfb7-57c5-44e7-80de-4aae6d818736.jpg)
-
-
->먼저 pip를 활용하여 control module을 다운받는다.
+먼저 pip를 활용하여 control module을 다운받는다.
 
 
 ```python
