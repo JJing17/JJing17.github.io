@@ -1,4 +1,4 @@
-##Digital Control Systems Analysis and Design
+## Digital Control Systems Analysis and Design
 >homework
 ===
 1.아래의 sampled-data closed-loop system에서 입력신호가 unit step function이고 sample time이 0.1sec일때 k번째 샘플타임의 y(k)식을 유도하시오.  
