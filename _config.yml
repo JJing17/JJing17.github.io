@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Jongpil's Lab experience"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "jongpil jeong"
-description              : "An amazing website."
+description              : "코린이 코딩 "
 url                      : "https://JJing17.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
