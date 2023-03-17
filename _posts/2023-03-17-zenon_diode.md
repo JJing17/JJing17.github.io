@@ -1,8 +1,3 @@
----
-layout: single
-title: "첫 블로그 생성 포스팅"
----
-
 # Zenen Diode
 ## preview
 
