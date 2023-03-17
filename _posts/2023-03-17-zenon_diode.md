@@ -23,4 +23,7 @@
   Zener diode의 대표적인 역할은 voltage regulation이다. 아래의 그림으로 보면 Zener diode가 reverse biasing이 되어 있는데 이로 인해 일종의 저항으로 표현이 가능하다.
  
  <img width="831" alt="zener circuit" src="https://user-images.githubusercontent.com/98220775/225535414-936dbf3d-369b-451a-a288-f5f026f9e834.png">
+ 
+ 
+
  ##### reference : Microelectronics_2nd_edition_Behzad Razavi_p86 
