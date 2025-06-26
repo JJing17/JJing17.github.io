@@ -2,15 +2,15 @@
 ## preview
 
 ### 역방향 절연파괴  
- Reverse bias에서 miner carrier에 의한 일정한 전류가 흐른다.($\cong$ 0에 수렴)  
- 그러나 소재에 가한 역전압이 증가하면, 결과적으로 brackdown이 일어나고, 급격하게 큰 전류가 발생하게 된다. 크게는 `Zener effect`과 `Avalanche Effect` 이 있다.  
+Reverse bias에서 miner carrier에 의한 일정한 전류가 흐른다.($\cong$ 0에 수렴)  
+그러나 소재에 가한 역전압이 증가하면, 결과적으로 brackdown이 일어나고, 급격하게 큰 전류가 발생하게 된다. 크게는 `Zener effect`과 `Avalanche Effect` 이 있다.  
 <img width="615" alt="ㅇㅇ" src="https://user-images.githubusercontent.com/98220775/225536504-3b41fe0e-1e96-4b16-ad23-23754c87e529.png">
 
 #### Zener effect
 <img width="646" alt="ㅇ" src="https://user-images.githubusercontent.com/98220775/225536502-8af872aa-e546-4732-bb43-a231864ee3d3.png">
 
- pn접합에서 공핍영역에서는 전자나 hole을 잃은 원자들이 있어, diffenetion current에 의해 약하게 연결된 carrier들을 제공한다. 이 영역에서 강한 전자장은 공유결합에서 남아있는 전자들 분리하는 충분한 에너지를 제공한다.  
- 일단 자유로워지면 전자는 전자장에 의해 가속되어 접합의 n영역으로 이동한다. 이 효과는 약 $10^6V/m$의 전자장의 크기를 발생한다. 적절한 전압은 높은 전자장을 발생시키기 위해 좁은 공핍 연결이 필요하다.![brakedown_graph](https://user-images.githubusercontent.com/98220775/225528890-4be1e808-9fed-4d16-975e-b12e185dbafb.png)
+pn접합에서 공핍영역에서는 전자나 hole을 잃은 원자들이 있어, diffenetion current에 의해 약하게 연결된 carrier들을 제공한다. 이 영역에서 강한 전자장은 공유결합에서 남아있는 전자들 분리하는 충분한 에너지를 제공한다.  
+일단 자유로워지면 전자는 전자장에 의해 가속되어 접합의 n영역으로 이동한다. 이 효과는 약 $10^6V/m$의 전자장의 크기를 발생한다. 적절한 전압은 높은 전자장을 발생시키기 위해 좁은 공핍 연결이 필요하다.![brakedown_graph](https://user-images.githubusercontent.com/98220775/225528890-4be1e808-9fed-4d16-975e-b12e185dbafb.png)
 
  Reverse Bias에서 공핍영역은 Capacitor와 비슷하다고 볼 수 있기 때문에 Capacitor의 식을 이용하면  
  $$
